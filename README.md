@@ -2,7 +2,7 @@
 
 **开源、高精度、可定制的《我的世界》矿车系统3D模型库**
 
-[![License](https://img.shields.io/badge/License-Gpl3.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL3.0-blue.svg)](LICENSE)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.5%2B-green)](https://www.minecraft.net/)
 
 专为模组开发者、资源包创作者和3D打印爱好者设计的开源模型库，还原经典矿车系统的细节与物理特性。
