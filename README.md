@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Blender Version](https://img.shields.io/badge/Blender-3.6%2B-orange)](https://www.blender.org/)
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20%2B-green)](https://www.minecraft.net/)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21%2B-green)](https://www.minecraft.net/)
 
 专为模组开发者、资源包创作者和3D打印爱好者设计的开源模型库，还原经典矿车系统的细节与物理特性。
 
@@ -44,7 +44,7 @@
 - 支持本地化翻译（当前支持中/英文）
 
 ## 📜 授权协议
-本项目采用MIT许可证，允许商业使用/修改/二次分发，需保留原始作者署名。
+本项目采用许可证，允许商业使用/修改/二次分发，需保留原始作者署名。
 
 ---
 
