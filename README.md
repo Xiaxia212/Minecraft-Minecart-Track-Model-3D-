@@ -47,7 +47,7 @@
 
 ---
 
-**立即探索** ➡️ [模型预览](你的演示链接) | [下载最新版本](你的Release链接)
+**立即探索** ➡️ [下载最新版本](https://github.com/Xiaxia212/Minecraft-Minecart-Track-Model-3D-/releases)
 
 ---
 
